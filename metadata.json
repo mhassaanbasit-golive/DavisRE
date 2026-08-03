@@ -1,0 +1,6 @@
+{
+  "name": "davisRE",
+  "description": "davisRE - Entrepreneurial Real Estate Investment & Syndication in Dallas, Texas. Commercial, Multifamily, and Repositioning for Accredited Investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
