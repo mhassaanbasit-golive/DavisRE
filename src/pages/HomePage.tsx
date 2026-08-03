@@ -80,7 +80,7 @@ export const HomePage: React.FC<HomePageProps> = ({
             >
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gray-200 aspect-[4/3] bg-gray-100">
                 <img
-                  src="/src/assets/images/dallas_skyline_hero_1785785217786.jpg"
+                  src="/dallas-skyline.jpg"
                   alt="Dallas Texas Skyline Architectural View"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"

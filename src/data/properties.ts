@@ -66,7 +66,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: "CEO & Managing Partner",
     bio: "Stacey has decades of experience to provide davisRE and its investors with aggressive asset management. A graduate of the Cox School of Business at Southern Methodist University, Stacey prides herself on building meaningful relationships and leading her team with integrity.",
     email: "sdavis@davis-re.com",
-    headshot: "/src/assets/images/stacey_davis_headshot_1785785247943.jpg"
+    headshot: "/stacey-davis.jpg"
   },
   {
     id: "andrew-hanson",
@@ -74,7 +74,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: "Head of Acquisitions",
     bio: "Andrew leads acquisitions at davisRE, sourcing and acquiring value-add multifamily investments. With a deep network and 5 years of experience, he identifies high-potential properties across Texas.",
     email: "ahanson@davis-re.com",
-    headshot: "/src/assets/images/andrew_hanson_headshot_1785785257507.jpg"
+    headshot: "/andrew-hanson.jpg"
   },
   {
     id: "donna-perkins",
@@ -82,7 +82,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: "Director of Operations",
     bio: "Donna has over 20 years of experience supporting senior management. She ensures seamless operations and is revered for her attention to detail and organizational prowess.",
     email: "dperkins@davis-re.com",
-    headshot: "/src/assets/images/donna_perkins_headshot_1785785267234.jpg"
+    headshot: "/donna-perkins.jpg"
   }
 ];
 
@@ -154,7 +154,7 @@ export const PROPERTY_ASSETS: PropertyAsset[] = [
     assetClass: "Class B Multifamily",
     totalUnits: "112 Units",
     holdPeriod: "3.0 Years",
-    heroImage: "/src/assets/images/multifamily_complex_1785785226991.jpg",
+    heroImage: "/multifamily-complex.jpg",
     description: "112-unit garden-style community acquisition. Enhanced operational cash flows through proactive asset management and institutional capital upgrades."
   },
   {
@@ -168,7 +168,7 @@ export const PROPERTY_ASSETS: PropertyAsset[] = [
     assetClass: "Commercial Office & Retail",
     totalUnits: "64,000 Sq Ft",
     holdPeriod: "3.0 Years",
-    heroImage: "/src/assets/images/commercial_office_1785785237479.jpg",
+    heroImage: "/commercial-office.jpg",
     description: "Prime commercial corridor repositioning. Secured long-term credit tenants and modernized physical infrastructure to stabilize risk-adjusted cash flows."
   },
   {
